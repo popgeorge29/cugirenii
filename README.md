@@ -9,6 +9,6 @@ Aceasta este prezentarea proiectului nostru, din categoria AI Development, care 
 <p align="center">
                   - programul python care da 'merge' la 2 tabele de date csv
 </p>
-<h1 align="center">
+<p align="center">
                   - cele 2 tabele csv descarcate de pe Fred si Eia
 </p>
