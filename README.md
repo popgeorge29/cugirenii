@@ -1,5 +1,5 @@
 # cugirenii
-      Aceasta este prezentarea proiectului nostru, din categoria AI Development, care consta in prezicerea ratei de inflatie in urmatoarele luni, in functie de datele din trecut, folosind AzureML.
+Aceasta este prezentarea proiectului nostru, din categoria AI Development, care consta in prezicerea ratei de inflatie in urmatoarele luni, in functie de datele din trecut, folosind AzureML.
 <p align="left">
     Proiectul contine:
 </p>
